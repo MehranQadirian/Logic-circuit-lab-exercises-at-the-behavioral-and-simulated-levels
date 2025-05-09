@@ -8,7 +8,7 @@
     <h3>Project Name : <a href="">4-BIT BY 3-BIT BINARY MULTIPLIER</a></h3>
     <ul>
     <li><h4><a href="">Source Files</a></h4></li>
-    <li><h4><a href="">Executive image</a></h4></li>
+    <li><h4><a href="4-BIT BY 3-BIT BINARY MULTIPLIER/Executive image/Picture.png">Executive image</a></h4></li>
     </ul>
   </li>
   <li>
