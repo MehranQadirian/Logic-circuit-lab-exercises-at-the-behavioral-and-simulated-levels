@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Diamond/Desktop/practice/practice/SimpleProjects/Circuit_TB_isim_beh.exe" -prj "C:/Users/Diamond/Desktop/practice/practice/SimpleProjects/Circuit_TB_beh.prj" "work.Circuit_TB" "work.glbl" 

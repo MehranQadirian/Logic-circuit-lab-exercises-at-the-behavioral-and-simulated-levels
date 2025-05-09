@@ -1,0 +1,2 @@
+verilog work "FourBitAdder.v"
+verilog work "FourBitAdder_TB.v"

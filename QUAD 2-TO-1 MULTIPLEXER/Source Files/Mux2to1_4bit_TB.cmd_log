@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Diamond/Desktop/practice/practice/Mux2to1/Mux2to1_4bit_TB.xst" -ofn "C:/Users/Diamond/Desktop/practice/practice/Mux2to1/Mux2to1_4bit_TB.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 Mux2to1_4bit_TB.ngc Mux2to1_4bit_TB.ngd  
